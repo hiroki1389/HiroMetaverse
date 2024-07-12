@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c444d6f85828f1b4f9b89c7c387f9ddd, type: 3}
+  m_Name: msgbrowser_settings
+  m_EditorClassIdentifier: 
+  inputPath: "C:/Users/MC_Hiroki/OneDrive - \u5B66\u6821\u6CD5\u4EBA\u7ACB\u547D\u9928/__Research/Project/ROS2_Packages/Unity_custom_msg/my_object_info_msgs"
+  relativeOutPath: RosMessages
